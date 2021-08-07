@@ -30,9 +30,9 @@ Shortest_path_AL.m----- This algorithm used to construct the shortest path betwe
 
 Shortest_path_Neighbourhood_Matrix.pdf ----- Corresponding Research article of this work 
 
-facebook_100000.mat-----This dataset contains one graph with 4039 vertices, 88,234 edges. Here we choosed ramdomly selected 100000 pair of vertices. 
+facebook_100000.mat-----This dataset contains one graph with 4039 vertices, 88,234 edges. Here we choosed randomly selected 100000 pair of vertices. 
 
-facebook_50000.mat-----This dataset contains one graph with 4039 vertices, 88,234 edges. Here we choosed ramdomly selected 50000 pair of vertices.
+facebook_50000.mat-----This dataset contains one graph with 4039 vertices, 88,234 edges. Here we choosed randomly selected 50000 pair of vertices.
 
 facebook_dis8.mat-----This dataset contains one graph with 4039 vertices, 88,234 edges and has a diameter of 8. (Hence, we see
 that the iteration number is 3).
