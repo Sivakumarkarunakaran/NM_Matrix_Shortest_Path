@@ -53,10 +53,3 @@ else
 end
 DS_P=length(S_P)-1;
 return
-    
- 
-
-  
-    
-
-
